@@ -1,0 +1,8 @@
+Firefox
+-------
+
+* browser.newtab.url: about:blank
+* browser.startup.page: 0
+* browser.tabs.insertRelatedAfterCurrent: false
+* browser.tabs.warnOnClose: false
+* browser.urlbar.trimURLs: false
