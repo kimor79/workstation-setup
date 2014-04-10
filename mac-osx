@@ -1,0 +1,33 @@
+Mac OSX
+-------
+
+* System Preferences -> Security -> "Require password after screensaver"
+* System Preferences -> Energy Saver -> "Computer Sleep"/Hard disk sleep: Never
+* Show battery status in menu bar + show percentage
+* System Preferences -> Trackpad -> Scroll & Zoom -> Uncheck "Scroll direction: Natural"
+* System Preferences -> Desktop -> Desktop: Solid Gray Dark
+* System Preferences -> Mission Control -> Uncheck "Displays have separate spaces" (so menu bar is only on main screen)
+* TODO: Something better with Notifications
+* Install git, prepend /usr/local/git/bin to /etc/paths
+* EasySIMBL
+* TODO: Get TerminalCopyOnSelect working on 10.9
+* Disk Utility -> New Image (for GitHub)
+  * Format: Mac OS Extended (Case-sensitive, Journaled)
+  * Image Format: sparse bundle disk image
+* Add GitHub Volume to startup items (hidden)
+* mkdir ~/work
+* ln -s /Volumes/GitHub ~/work/github
+* Create ssh key for github:
+  * install -d -m 0700 ~/.ssh
+  * ssh-keygen -t rsa -f ~/.ssh/github
+  * Add key to github
+  * ~/.ssh/config:
+Host github.com
+  User git
+  IdentityFile ~/.ssh/github
+* Finder -> View -> Show * Bar
+* Finder -> Preferences -> Side Bar -> Set favorites
+* Finder -> Navigate to home -> Click gear -> Show View Options -> Check Show Library Folder
+* Keychain Access -> Preferences -> Show Keychain status in menubar
+* System Preferences -> Date & Time -> Clock -> 24 hour time, Show date, day
+* Install https://itunes.apple.com/us/app/status-clock/id552792489
