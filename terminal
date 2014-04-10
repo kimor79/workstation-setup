@@ -1,0 +1,14 @@
+OSX Terminal.app
+----------------
+
+* View -> Show tab bar
+* Preferences -> Settings -> Copy Homebrew to Kimo
+  * Make default
+  * Uncheck "Blink cursor"
+  * Font: Monaco Regular 11pt.
+  * Keyboard -> "Use option as meta key"
+  * Advanced -> Uncheck "Audible bell"
+  * Window -> Background -> Opacity: 100%
+  * Shell -> When the shell exits: Close the window
+* Preferences -> startup
+  * New tables open with: Default working Directory
