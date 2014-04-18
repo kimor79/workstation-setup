@@ -35,3 +35,13 @@ Host github.com
 * Install https://itunes.apple.com/us/app/status-clock/id552792489
   * Add to startup items
 * System Preferences -> General -> "Click in the scroll bar to": "Jump to the spot that's clicked
+* System Preferences -> Keyboard -> Text
+  * Uncheck "Correct spelling automatically"
+  * Uncheck "Use smart quotes"
+
+CMStorm QuickFire Rapid Keyboard
+---------------------------
+* System Preferences -> Keyboard -> Modifier Keys
+  * Select keyboard: QuickFire Rapid Keyboard:
+    * Option -> Command
+    * Command -> Option
