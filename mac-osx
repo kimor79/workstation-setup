@@ -31,4 +31,5 @@ Host github.com
 * Keychain Access -> Preferences -> Show Keychain status in menubar
 * System Preferences -> Date & Time -> Clock -> 24 hour time, Show date, day
 * Install https://itunes.apple.com/us/app/status-clock/id552792489
+  * Add to startup items
 * System Preferences -> General -> "Click in the scroll bar to": "Jump to the spot that's clicked
