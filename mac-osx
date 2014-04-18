@@ -9,6 +9,8 @@ Mac OSX
 * System Preferences -> Mission Control -> Uncheck "Displays have separate spaces" (so menu bar is only on main screen)
 * TODO: Something better with Notifications
 * Install git, prepend /usr/local/git/bin to /etc/paths
+  * git config --global user.name Kimo Rosenbaum
+  * git config --global user.email
 * EasySIMBL
 * TODO: Get TerminalCopyOnSelect working on 10.9
 * Disk Utility -> New Image (for GitHub)
