@@ -6,6 +6,7 @@ OSX Terminal.app
   * Make default
   * Uncheck "Blink cursor"
   * Font: Monaco Regular 11pt.
+  * Antialias text
   * Keyboard -> "Use option as meta key"
   * Advanced -> Uncheck "Audible bell"
   * Window -> Background -> Opacity: 100%
