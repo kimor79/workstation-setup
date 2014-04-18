@@ -1,0 +1,18 @@
+X Chat Azure
+------------
+
+* Preferences -> [Input box ->] uncheck Autocorrection
+* Preferences -> Text box -> Colored nick names
+* Preferences -> Text box -> Enable time stamps
+* Preferences -> User list -> User list sorted by: A-Z
+* Preferences -> Channel switch -> Switcher type: Tabs
+* Preferences -> Channel switch -> uncheck "Pop new tabs to front"
+* Preferences -> Channel switch -> Show channel switcher at: Top
+* Preferences -> Events/Sounds
+  * Channel Action: Sv
+  * Channel INVITE: Sv
+  * Channel Message: Gv Sv
+  * Private Message: Sv
+  * Private Message to Dialog: Sv
+  * Topic Change: Gv Sv
+* Preferences -> Advanced -> Automatically rejoin channel
