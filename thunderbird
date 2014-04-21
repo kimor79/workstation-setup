@@ -1,0 +1,17 @@
+Thunderbird
+-----------
+
+* Preferences -> General -> Uncheck "When Thunderbird launches, show the Start Page"
+* Preferences -> General -> When new messages arrive:
+  * Animate the dock icon
+  * Uncheck "Show an alert"
+  * Uncheck "Play a sound"
+* Preferences -> Chat -> Uncheck "Let my contacts know that I am idle"
+* Preferences -> Chat -> Uncheck "Send typing notifications in conversations"
+* Prefrences -> Advanced -> Open messages in: A new message window
+* View -> Layout -> Message Pane
+* Accounts -> Server Settings -> When I delete a message: Remove it immediately
+* Accounts -> Server Settings -> Clean up Inbox on Exit
+* Accounts -> Server Settings -> Empty Trash on Exit
+* Accounts -> Composition -> Uncheck "Compose messages in HTML format"
+* Accounts -> Junk Settings -> Uncheck "Enable adaptive junk mail"
