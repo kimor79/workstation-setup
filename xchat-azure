@@ -10,8 +10,10 @@ X Chat Azure
 * Preferences -> Channel switch -> Show channel switcher at: Top
 * Preferences -> Events/Sounds
   * Channel Action: Sv
+  * Channel Action Hilight: Sv
   * Channel INVITE: Sv
   * Channel Message: Gv Sv
+  * Channel Msg Hilight: Gv Sv
   * Private Message: Sv
   * Private Message to Dialog: Sv
   * Topic Change: Gv Sv
