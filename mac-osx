@@ -5,6 +5,8 @@ Mac OSX
 * System Preferences -> Energy Saver -> "Computer Sleep"/Hard disk sleep: Never
 * Show battery status in menu bar + show percentage
 * System Preferences -> Trackpad -> Scroll & Zoom -> Uncheck "Scroll direction: Natural"
+* System Preferences -> Trackpad -> More Gestures -> "Swipe between pages: Swipe with three fingers"
+* System Preferences -> Trackpad -> More Gestures -> Uncheck "Swipe between full-screen apps"
 * System Preferences -> Desktop -> Desktop: Solid Gray Dark
 * System Preferences -> Mission Control -> Uncheck "Displays have separate spaces" (so menu bar is only on main screen)
 * TODO: Something better with Notifications
