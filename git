@@ -1,0 +1,20 @@
+Git (on Mac OSX)
+-------
+
+* Install git, prepend /usr/local/git/bin to /etc/paths
+  * git config --global user.name Kimo Rosenbaum
+  * git config --global user.email
+* Disk Utility -> New Image (for GitHub)
+  * Format: Mac OS Extended (Case-sensitive, Journaled)
+  * Image Format: sparse bundle disk image
+* Add GitHub Volume to startup items (hidden)
+* mkdir ~/work
+* ln -s /Volumes/GitHub ~/work/github
+* Create ssh key for github:
+  * install -d -m 0700 ~/.ssh
+  * ssh-keygen -t rsa -f ~/.ssh/github
+  * Add key to github
+  * ~/.ssh/config:
+Host github.com
+  User git
+  IdentityFile ~/.ssh/github

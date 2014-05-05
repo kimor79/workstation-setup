@@ -1,0 +1,33 @@
+Mac OSX
+-------
+
+* System Preferences -> Date & Time -> Clock -> 24 hour time, Show date, day
+* System Preferences -> Desktop -> Desktop: Solid Gray Dark
+* System Preferences -> Energy Saver -> "Computer Sleep"/Hard disk sleep: Never
+* System Preferences -> General -> "Click in the scroll bar to": "Jump to the spot that's clicked
+* System Preferences -> General -> Show scroll bars: Always
+* System Preferences -> Keyboard -> Text
+  * Uncheck "Correct spelling automatically"
+  * Uncheck "Use smart quotes"
+* System Preferences -> Mission Control -> Uncheck "Displays have separate spaces" (so menu bar is only on main screen)
+* System Preferences -> Security -> "Require password after screensaver"
+* Show battery status in menu bar + show percentage
+* System Preferences -> Trackpad -> Scroll & Zoom -> Uncheck "Scroll direction: Natural"
+* System Preferences -> Trackpad -> More Gestures -> "Swipe between pages: Swipe with three fingers"
+* System Preferences -> Trackpad -> More Gestures -> Uncheck "Swipe between full-screen apps"
+
+* Finder -> View -> Show * Bar
+* Finder -> Preferences -> Side Bar -> Set favorites
+* Finder -> Navigate to home -> Click gear -> Show View Options -> Check Show Library Folder
+
+* EasySIMBL
+* TODO: Get TerminalCopyOnSelect working on 10.9
+
+* Keychain Access -> Preferences -> Show Keychain status in menubar
+* Install https://itunes.apple.com/us/app/status-clock/id552792489
+  * Add to startup items
+* Change screenshot location:
+mkdir ~/Pictures/Screenshots
+defaults write com.apple.screencapture location ~/Pictures/Screenshots
+killall SystemUIServer
+* TODO: Something better with Notifications
