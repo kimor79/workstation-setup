@@ -21,6 +21,8 @@ Mac OSX
 * Finder -> Preferences -> Side Bar -> Set favorites
 * Finder -> Navigate to home -> Click gear -> Show View Options -> Check Show Library Folder
 
+* Disable sleep: sudo pmset -a sleep 0
+
 * EasySIMBL
 * TODO: Get TerminalCopyOnSelect working on 10.9
 
