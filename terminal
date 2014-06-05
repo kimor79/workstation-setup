@@ -13,3 +13,4 @@ OSX Terminal.app
   * Shell -> When the shell exits: Close the window
 * Preferences -> startup
   * New tables open with: Default working Directory
+* Disable copy/paste preserving formatting: defaults write com.apple.Terminal CopyAttributesProfile com.apple.Terminal.no-attributes
