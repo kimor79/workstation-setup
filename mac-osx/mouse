@@ -1,14 +1,22 @@
 MX Revolution Cordless Mouse
 ----------------------------
 
+Global
+
 * Scroll Wheel: Free spin
 * Scroll Wheel Button: Middle Click
 * Thumb Wheel Forward -> cmd+shift+]
 * Thumb Wheel Backward -> cmd+shift+[
 * Thumb Wheel Button -> Nothing
 
+HipChat
+
+* Settings from Global
+* Thumb Wheel Forward -> ctrl+page up
+* Thumb Wheel Backward -> ctrl+page down
+
 Skype
 
-* Settings from above
+* Settings from Global
 * Thumb Wheel Forward -> cmd+opt+left arrow
 * Thumb Wheel Backward -> cmd+opt+right arrow
