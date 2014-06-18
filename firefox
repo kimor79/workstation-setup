@@ -10,3 +10,7 @@ about:config:
 * browser.urlbar.trimURLs: false
 
 * Preferences -> Tabs -> Uncheck "Don't load tabs until selected"
+
+Add-ons:
+* https://addons.mozilla.org/en-us/firefox/addon/jsonview/
+* https://getfirebug.com/
