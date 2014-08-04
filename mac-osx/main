@@ -16,6 +16,8 @@ Mac OSX
 * System Preferences -> Trackpad -> More Gestures -> "Swipe between pages: Swipe with three fingers"
 * System Preferences -> Trackpad -> More Gestures -> Uncheck "Swipe between full-screen apps"
 * System Preferences -> Trackpad -> More Gestures -> "Mission Control: Swipe with four fingers"
+* System Preferences -> Trackpad -> Point & Click -> Uncheck "Tap to click"
+* System Preferences -> Trackpad -> Point & Click -> Uncheck "Look up"
 
 * Finder -> View -> Show * Bar
 * Finder -> Preferences -> Side Bar -> Set favorites
