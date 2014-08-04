@@ -27,9 +27,6 @@ Mac OSX
 
 * Disable sleep: sudo pmset -a sleep 0
 
-* EasySIMBL
-* TODO: Get TerminalCopyOnSelect working on 10.9
-
 * Keychain Access -> Preferences -> Show Keychain status in menubar
 * Install https://itunes.apple.com/us/app/status-clock/id552792489
   * Add to startup items
