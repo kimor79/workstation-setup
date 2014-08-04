@@ -21,6 +21,7 @@ Mac OSX
 
 * Finder -> View -> Show * Bar
 * Finder -> Preferences -> Side Bar -> Set favorites
+* Finder -> Preferences -> General -> Uncheck "Open folders in tabs"
 * Finder -> Navigate to home -> Click gear -> Show View Options -> Check Show Library Folder
 
 * Disable sleep: sudo pmset -a sleep 0
