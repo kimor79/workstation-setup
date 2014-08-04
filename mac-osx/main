@@ -10,6 +10,7 @@ Mac OSX
   * Uncheck "Correct spelling automatically"
   * Uncheck "Use smart quotes"
 * System Preferences -> Mission Control -> Uncheck "Displays have separate spaces" (so menu bar is only on main screen)
+* System Preferences -> Notifications -> For each app, uncheck lockscreen, sounds, recent items
 * System Preferences -> Security -> "Require password after screensaver"
 * Show battery status in menu bar + show percentage
 * System Preferences -> Trackpad -> Scroll & Zoom -> Uncheck "Scroll direction: Natural"
