@@ -1,0 +1,14 @@
+Microsoft Outlook
+-----------------
+
+* Preferences -> General -> Uncheck "Group similar folders"
+* Preferences -> Notifications and Sounds -> Uncheck Sounds
+* Preferences -> Reading -> Mark mail as read: after 1 seconds
+* Preferences -> Reading -> Uncheck "Highlight messages from the same conversation"
+* Preferences -> Composing -> Uncheck "Compose messages in HTML"
+* Preferences -> Calendar -> Default reminder: 5 minutes
+
+* View -> Arrange By -> Account
+* View -> Reading Pane -> Below
+* View -> Hide Toolbar
+* View -> Columns: Attachment, From, Subject, Date Received
