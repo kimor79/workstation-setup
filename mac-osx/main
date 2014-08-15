@@ -26,6 +26,7 @@ Mac OSX
 * Finder -> Navigate to home -> Click gear -> Show View Options -> Check Show Library Folder
 
 * Disable sleep: sudo pmset -a sleep 0
+* Disable disk sleep: sudo pmset -a disksleep 0
 
 * Keychain Access -> Preferences -> Show Keychain status in menubar
 * Install https://itunes.apple.com/us/app/status-clock/id552792489
