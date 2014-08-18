@@ -35,4 +35,5 @@ Mac OSX
 mkdir ~/Pictures/Screenshots
 defaults write com.apple.screencapture location ~/Pictures/Screenshots
 killall SystemUIServer
+* ln -s /tmp tmp
 * TODO: Something better with Notifications
