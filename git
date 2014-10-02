@@ -17,4 +17,5 @@ Git (on Mac OSX)
   * ~/.ssh/config:
 Host github.com
   User git
+  IdentitiesOnly yes
   IdentityFile ~/.ssh/github
