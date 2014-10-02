@@ -9,7 +9,7 @@ Git (on Mac OSX)
   * Image Format: sparse bundle disk image
 * Add GitHub Volume to startup items (hidden)
 * mkdir ~/work
-* ln -s /Volumes/GitHub ~/work/github
+* ln -s /Volumes/GitHub ~/work/github.com
 * Create ssh key for github:
   * install -d -m 0700 ~/.ssh
   * ssh-keygen -t rsa -f ~/.ssh/github
