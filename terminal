@@ -16,10 +16,12 @@ OSX Terminal.app
 * Disable copy/paste preserving formatting: defaults write com.apple.Terminal CopyAttributesProfile com.apple.Terminal.no-attributes
 
 Copy On Select
-* https://github.com/norio-nomura/EasySIMBL
+* https://gist.github.com/hetima/51b71091aedf622f61f7
+* http://www.culater.net/software/SIMBL/SIMBL.php
 * http://superuser.com/questions/62609/how-can-i-copy-on-select-in-the-os-x-terminal-like-putty-does
   "git clone https://github.com/genki/terminalcopyonselect.git
 cd terminalcopyonselect
 open TerminalCopyOnSelect.xcodeproj
 # edit Info.plist and set SIMBLTargetApplications's MaxBundleVersion to 400, which is enough for MacOSX Yosemite's Terminal.app
 # hit build, and it will copy TerminalCopyOnSelect.bundle under it's proper place: ~/Library/Application Support/SIMBL/Plugins"
+* Move to /Library/Application Support/SIMBL/Plugins
