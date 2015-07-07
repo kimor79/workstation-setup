@@ -27,7 +27,7 @@ Mac OSX
 
 * Disable sleep: sudo pmset -a sleep 0
 * Disable disk sleep: sudo pmset -a disksleep 0
-* Applescript Editor -> do shell script "caffeinate -i >/dev/null 2>&1 &" -> Save as "Application"; Add to "Login Items"
+* Applescript Editor -> do shell script "caffeinate -ims >/dev/null 2>&1 &" -> Save as "Application"; Add to "Login Items"
 
 * Keychain Access -> Preferences -> Show Keychain status in menubar
 * Install https://itunes.apple.com/us/app/status-clock/id552792489
