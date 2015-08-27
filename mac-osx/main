@@ -32,6 +32,8 @@ Mac OSX
 * Keychain Access -> Preferences -> Show Keychain status in menubar
 * Install https://itunes.apple.com/us/app/status-clock/id552792489
   * Add to startup items
+* Install https://itunes.apple.com/us/app/mutemymic/id456362093
+  * Add to startup items
 * Change screenshot location:
 mkdir ~/Pictures/Screenshots
 defaults write com.apple.screencapture location ~/Pictures/Screenshots
