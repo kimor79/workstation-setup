@@ -8,6 +8,7 @@ OSX Terminal.app
   * Font: Monaco Regular 11pt.
   * Antialias text
   * Keyboard -> "Use option as meta key"
+  * Keyboard -> Uncheck "Scroll alternate screen"
   * Advanced -> Uncheck "Audible bell"
   * Window -> Background -> Opacity: 100%
   * Shell -> When the shell exits: Close the window
