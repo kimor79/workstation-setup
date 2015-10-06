@@ -9,7 +9,7 @@ Thunderbird
 * Preferences -> Chat -> Uncheck "Let my contacts know that I am idle"
 * Preferences -> Chat -> Uncheck "Send typing notifications in conversations"
 * Preferences -> Attachments -> Save files to: Downloads
-* Prefrences -> Advanced -> Open messages in: A new message window
+* Preferences -> Advanced -> Open messages in: A new message window
 * View -> Layout -> Message Pane
 * Accounts -> Server Settings -> When I delete a message: Remove it immediately
 * Accounts -> Server Settings -> Clean up Inbox on Exit
