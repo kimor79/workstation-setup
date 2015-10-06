@@ -16,3 +16,5 @@ Thunderbird
 * Accounts -> Server Settings -> Empty Trash on Exit
 * Accounts -> Composition -> Uncheck "Compose messages in HTML format"
 * Accounts -> Junk Settings -> Uncheck "Enable adaptive junk mail"
+
+* Config editor: Set mail.server.default.check_all_folders_for_new to true
