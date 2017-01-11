@@ -1,0 +1,9 @@
+iterm2
+------
+
+* Preferences -> Appearance -> Show tab bar even when only one tab
+* Preferences -> Profiles -> Copy default to Kimo
+  * Color Presets: Import https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/schemes/Homebrew.itermcolors
+  * Font 11 pt Monaco
+  * Unlimited scrollback
+  * Left option as +Esc
