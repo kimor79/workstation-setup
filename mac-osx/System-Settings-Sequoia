@@ -1,0 +1,101 @@
+General
+	Date & Time
+		24-hour time: on
+		Show 24-hour time on Lock Screen
+	Language & Region
+		Date format: YYYY-MM-DD
+
+Appearance
+	Appearance: Dark
+	Sidebar icon size: Medium
+	Allow wallpaper tinting in windows: off
+	Show scroll bars: always
+	Click in the scroll bar to: Jump to the spot that's clicked
+
+Siri
+	Siri: off
+
+Control Center
+	Wifi: Show in Menu Bar
+	Bluetooth: show
+	Airdrop: don't show
+	Focus: show when active
+	Stage manager: don't show
+	Screen mirroring: show when active
+	Display: show when active
+	Sound: always show
+	Now playing: show when active
+	Battery
+		Show in menu bar: on
+		show percentage: on
+	fast user switching
+		show in menu bar: full name
+	Clock
+		show date: always
+		show the day of week: on
+		flash the time separators: off
+		display time with seconds: off
+
+Desktop & Dock
+	Size: ~33%
+	Magnification: off
+	Double-click a window's title bar to: Do Nothing
+	Automatically hide and show the Dock: off
+	Animate opening applications: off
+	Show indicators for open applications: on
+	Show suggested and recent apps in Dock: off
+	Stage manager: off
+	Ask to keep changes when closing documents: off
+	Close windows when quitting an application: off
+	Automatically rearrange Spaces based on most recent use: off
+	When switching to an application, switch to a Space with open windows: off
+	Group windows by application: off
+	Displays have separate spaces: off
+
+Wallpaper
+	Stone
+	Show on all Spaces: on
+
+Notifications:
+	Show previews: when unlocked
+	Allow notifications when the display is sleeping: off
+	Allow notifications when the screen is locked: off
+	Allow notifications when mirroring or sharing the display: off
+
+Sound
+	Play sound on startup: off
+	Play user interface sound effects: off
+	Play feedback when volume is changed: on
+
+Lock Screen
+	Start Screen Saver when inactive: 5 minutes
+	Turn display off on battery when inactive: 2 minutes
+	Turn display off on power adapter when inactive: 10 minutes
+	Require password after screen saver beings or display is turned off: 1 minute
+	Show large clock: on Lock Screen
+	Show 24-hour time: on
+
+Keyboard
+	keyboard shortcuts
+		modifier keys
+			"side print" (CM Storm)
+				option key: command
+				command key: option
+
+Mouse
+	Natural scrolling: off
+
+Trackpad
+	Point & Click
+		Force Click and haptic feedback: on
+		Secondary click: Click with Two Fingers
+		Tap to click: off
+	Scroll & Zoom
+		Natural scrolling: off
+	More Gestures
+		Swipe between pages: Swipe with Three Fingers
+		Swipe between full-screen applications: off
+		Notification Center: off
+		Mission Control: off
+		App Expose: off
+		Launchpad: off
