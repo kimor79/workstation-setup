@@ -19,3 +19,29 @@ Host github.com
   User git
   IdentitiesOnly yes
   IdentityFile ~/.ssh/github
+
+/usr/local/bin/merge_pr
+#!/bin/sh
+set -e
+
+if [ -z "${2}" ]; then
+	echo "Usage: ${0##*/} pr branch" >&2
+	exit 1
+fi
+
+pr="${1}"
+branch="${2}"
+
+git checkout main
+git pull origin
+
+git fetch origin "${branch}"
+
+git merge --no-ff -m "Merge pull request #${pr} from ${branch}" "origin/${branch}"
+git push -u origin main
+
+git push origin --delete "${branch}"
+
+if git show-ref --quiet "refs/heads/${branch}"; then
+	git branch -d "${branch}"
+fi
